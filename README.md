@@ -1,0 +1,1 @@
+# amostrador_gibbs-metropolis
